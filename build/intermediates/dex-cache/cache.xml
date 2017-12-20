@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\9626ba5f71940ae17e3fe707f9145c3a0751bdd1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_38b24d6d507492a259d1a6cfc924781ee2ddc58f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65e8e02e2cedfe6a09de59c6720912c2757fb38a">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e78e92b793f9a7cd3d7c7c49e7f1f9e405bc11bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\c1a2249569da201aa07b671b9aaa1052dad74eb5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ca559b8c5ff0711072d50d52581001494420e0d">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c43610d06237faa8971fe53b0bf6c88b4bc2a6be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_04cabb3ed260ecabf3ed927d0f3bedb65e51f661\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\175c891c21659d45c29157c00cd92e37664ac81a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d9ec1d86fd80f0e0f5de49ca18cb29158fe7406b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\9160b62837e000e6c1ecbf2ec7cf85937ddc675f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b18100abf3dcc2181de09b54e77e06dfabcbf56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\3a5a4c0591b8a059f271418f53d62bea798e25a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69ac88ef1bdd2dc4edff86d3d2e653bce876648a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\8a76938c25e47a18981825569fc3cee80f210862\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33569b9745601dda90147b4e0f6b2f01bb961f93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\a4a75589eeeeaf75dfc3556ec7f36f984fbb5b72\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c241024d908e1998e5a5430105f93dc0e47156d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\a9ba2678b7022057ba627592afc1614a3402ee73\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d35ccb66d530d7b557a1fe24aa59ac11639a58ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\a1d303c5bf279fb84e6056c6bebc91148ea17843\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_697cef004db43831709f0d6ff4d1ca4f095c9579\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b915e69028f770ede832e19fe95baffa8d18a30c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\6dba47933c07d6af6483b38f516d02646d65a5ab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd57e6d90e63921172b30ca28af527267e6d213d">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d09005bcea6bf907c66b6437481055d2c442b5a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\b8ae2749ea7db0d6c36f0a768d6f7cff709004f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ff382ee7d71048ed1abc29985cb2288e9b2257e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\ac1e31fa3851b458e3f2ed81406ef9a314c32b65\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2fa83837969159e084952cb05655cf36678ef201\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0-alpha1\dddb0f589fc65ed3a262d1a90f4d61af6891776a\common-1.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dddb0f589fc65ed3a262d1a90f4d61af6891776a">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0-alpha1_7fe13069a5cb89c63f42b2990b9a388b918dc55a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\59754d5b0d03bec77201b5d27b80ba0ebd9cf1fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f80ef3e88d53cd67f09ae860e9e95967108f5cb2">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_533357b7406fc260926ad7771fcd94b647af463f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\b51fff2169964490b6d7fc018aed09030fd1c844\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46188de60901a64f8e3b12b39ae44834a0e2ea31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.gradle\caches\modules-2\files-2.1\android.arch.persistence.room\common\1.0.0-alpha1\4fb1be8519a8e9d931945beaee734dd7c1691462\common-1.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4fb1be8519a8e9d931945beaee734dd7c1691462">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0-alpha1_e51f708bab860f1a7afd8dd2d1326472839c2bad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\22cfa39addd5e871bbc03b5bc74587eb89f99c33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3a9d779f2db67f804850ff176bcb1c4b9b29cb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\Desktop\android-studio\gradle\m2repository\com\android\databinding\baseLibrary\2.3.2\baseLibrary-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64d8dd1d16035a16928e74269b7b66af9a229f02">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\baseLibrary-2.3.2_67cb80b4d26dabe11f13ec847ca578f78352f493\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\078c5e8d4c75009dc0a4c0cd14f7181755707c42\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="13b31fe5f2e97c9fa36b4716cf32c59afb5603b4">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_747b159e7f0ac40d54ffab489b2cdbbd60d3333c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\167756f7e45e37c45b84c40371a06693f4271ba3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d072ae13be0770e3cc44d8b392e845a6e5e0f837\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\9dcaa3b55ab0c49b24ab0e6e62e34a9c35ef04b6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8aa1017a9d855f7071d9f47ae563f1dc45730b74">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9bbc3647430e3233bbe4c4fe622579e88bd9409e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\b088215802b80b08bd30b37f867e8c146b82233f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b4a7d9ec5ea0a4973ee8eb9e168b76275601dc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\702194b97270a3e12e6d803a7d75fb07cbc3006a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b03a205507d2846b997bea4b56209fb9aec7ee1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LUCIA PAREDES\.android\build-cache\632ca56b5936a1fc0b91551b39699423979dc8f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba181b635dc40ba213e382e67397df779f7665b7">
+        <dex dex="C:\Users\LUCIA PAREDES\Desktop\android-mvvm-attendance-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c8c6a0f7eb562a547f4a55b2f64eeb220470cc6\classes.dex" />
+    </item>
+
+</items>
